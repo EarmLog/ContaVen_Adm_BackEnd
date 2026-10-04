@@ -20,3 +20,4 @@ database.db-shm
 Thumbs.db
 .idea/
 .vscode/
+.vercel
